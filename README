@@ -1,0 +1,5 @@
+Architecting on AWS trail
+VPC: My Exp VPC  10.1.0.0/16
+AZ1: ap-southeast-1a
+Exp Public Subnet 1  10.1.1.0/24
+Exp Private Subnet 1 10.1.3.0/24
